@@ -1,0 +1,24 @@
+inherited frmContainer_Windows: TfrmContainer_Windows
+  DesignerMasterStyle = 0
+  inherited Panel1: TPanel
+    inherited TbMain: TTabControl
+      Sizes = (
+        640s
+        413s
+        640s
+        413s)
+      inherited TabItem1: TTabItem
+        ExplicitSize.cx = 69.000000000000000000
+        ExplicitSize.cy = 26.000000000000000000
+      end
+      inherited TabItem2: TTabItem
+        ExplicitSize.cx = 69.000000000000000000
+        ExplicitSize.cy = 26.000000000000000000
+      end
+    end
+  end
+  inherited MainMenu1: TMainMenu
+    Left = 104
+    Top = 137
+  end
+end

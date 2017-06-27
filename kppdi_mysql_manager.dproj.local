@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00.00.00.000.354,C:\Users\Mas\Documents\Embarcadero\Studio\Projects\Unit5.fmx=D:\DATA\SOURCE\DELPHI\KPPDI\KPPDI DATABASE MANAGER\ufrmContainer.fmx</Transaction>
+    <Transaction>1899-12-30 00.00.00.000.914,D:\DATA\SOURCE\DELPHI\KPPDI\KPPDI DATABASE MANAGER\kppdi_database_manager.dproj=D:\DATA\SOURCE\DELPHI\KPPDI\KPPDI DATABASE MANAGER\kppdi_mysql_manager.dproj</Transaction>
+    <Transaction>1899-12-30 00.00.00.000.099,C:\Users\Mas\Documents\Embarcadero\Studio\Projects\Project5.dproj=D:\DATA\SOURCE\DELPHI\KPPDI\KPPDI DATABASE MANAGER\kppdi_database_manager.dproj</Transaction>
+    <Transaction>1899-12-30 00.00.00.000.354,C:\Users\Mas\Documents\Embarcadero\Studio\Projects\Unit5.pas=D:\DATA\SOURCE\DELPHI\KPPDI\KPPDI DATABASE MANAGER\ufrmContainer.pas</Transaction>
+    <Transaction>1899-12-30 00.00.00.000.461,D:\DATA\SOURCE\DELPHI\KPPDI\KPPDI DATABASE MANAGER\uCore.pas=D:\DATA\SOURCE\DELPHI\KPPDI\KPPDI DATABASE MANAGER\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00.00.00.000.928,=D:\DATA\SOURCE\DELPHI\KPPDI\KPPDI DATABASE MANAGER\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00.00.00.000.339,=C:\Users\Mas\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+  </Transactions>
+</BorlandProject>
